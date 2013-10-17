@@ -1,4 +1,4 @@
-java-jar
+Java Jar Files
 ========
 
-Java Jar Files
+Jar Libraries that I commonly use with different projects
